@@ -1,0 +1,42 @@
+/* 1st order elements */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Raleway', sans-serif;
+    color: #2d3c49;
+}
+
+/* 2nd order elements */
+
+.muted {
+    color: #7d97ad;
+}
+
+
+.title {
+    font-weight: 100;
+}
+
+.logo {
+    font-size: 85px;
+    color: #02b3e4;
+}
+
+.break {
+    height: 10px;
+    background-color: #7d97ad;
+}
+
+.main_img {
+    padding-top: 15px;
+}
+
+.url {
+    font-size: 12px;
+}
